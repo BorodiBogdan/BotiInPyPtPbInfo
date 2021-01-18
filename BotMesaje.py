@@ -41,8 +41,8 @@ def FindProfiles(Driver, Sol):
 
 PbInfo = "https://www.pbinfo.ro/"
 SolPbInfo = "https://www.pbinfo.ro/solutii/problema/"
-username = "BandB"
-password = "3000probleme"
+username = "BB"
+password = "probleme"
 FirstMessage = "Salut!Ma poti ajuta te rog cu rezolvarea la problema "
 SecondMessage = ".Iti voi ramane recunoscator.Multumesc mult!!!"
 Contact = "https://www.pbinfo.ro/?pagina=conversatii&partener="
