@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int a ,b,s;//declar datele de intrare si iesire
+    cin>>a>>b;//citesc datele de intare si iesire
+    s=a+b;//calculez datele de intrare si iesire
+    cout<<s;//afisez datele de intrare si iesire
+    return 0;
+}
